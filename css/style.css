@@ -16,8 +16,13 @@ body {
 #contact {
   z-index: 1000;
 }
-
-
+.navbar-expand-lg{
+  background-color:brown;
+}
+.contenu{
+  position:relative;
+  width:100%;
+}
 
 /*============= FOOTER =============*/
 
